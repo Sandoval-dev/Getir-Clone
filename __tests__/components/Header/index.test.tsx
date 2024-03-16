@@ -23,4 +23,5 @@ describe("components/HeaderMain",() => {
         expect(icon.props.style[2].fontFamily).toEqual('entypo')
         expect(icon.props.style[0].fontSize).toEqual(22)
     })
+    
 })

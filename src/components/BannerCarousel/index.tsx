@@ -34,6 +34,7 @@ const index = () => {
             snapToAlignment={"center"}
             decelerationRate={"fast"}
             testID="banner-carousel"
+            
         />
 
     )
